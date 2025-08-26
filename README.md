@@ -66,7 +66,7 @@ export default function LandingPage() {
         <p className="mb-8 text-lg">
           Preencha o formulário abaixo e um especialista da ILTRON entrará em contato com você.
         </p>
-        <form action="https://formspree.io/f/SEU_ID_AQUI" method="POST" className="max-w-2xl mx-auto grid gap-6 text-left">
+        <form action="[https://formspree.io/f/mblajdvd]"method="POST" className="max-w-2xl mx-auto grid gap-6 text-left">
           <div>
             <label className="block mb-2 font-semibold">Nome</label>
             <input type="text" name="nome" placeholder="Seu nome" className="w-full p-3 rounded-lg border border-zinc-300" required />
@@ -106,4 +106,3 @@ export default function LandingPage() {
     </div>
   );
 }
-
